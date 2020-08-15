@@ -4,7 +4,7 @@ title:  "My first post"
 date:   2020-08-14 20:15:11 -0400
 categories: jekyll update
 ---
-Welcome to my first post !
+Hi there, welcome to my first post !
 
 ### What you can find in my blog ?
 1. Some study notes in areas I learnt or am learning 
