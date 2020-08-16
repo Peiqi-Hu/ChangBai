@@ -3,6 +3,7 @@ layout: post
 title:  "My first post"
 date:   2020-08-15 10:17:21 -0400
 categories: jekyll update
+category: home
 ---
 Hi there, welcome to my first post !
 

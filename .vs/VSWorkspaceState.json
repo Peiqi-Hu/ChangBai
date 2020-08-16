@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\blog-CTF",
+    "\\blog-CTF\\_posts",
+    "\\blog-Quantum",
+    "\\blog-Quantum\\assets",
+    "\\blog-Quantum\\_posts",
     "\\_posts"
   ],
-  "SelectedNode": "\\_posts\\2020-8-14-my-first-post.md",
+  "SelectedNode": "\\about.markdown",
   "PreviewInSolutionExplorer": false
 }
