@@ -20,7 +20,7 @@ category: Quantum
 
 ### Some notations:  (see reference 1)
 
-- ![notations_hearmitian.jpg](assets/images/notations_hermitian.JPG)
+- ![notations_hermitian](https://user-images.githubusercontent.com/26306522/90438257-ade45400-e0a1-11ea-81e3-ab4ec2b56bd6.JPG)
 
 ### Summary notes: (based on reference 2 and 3)
 
