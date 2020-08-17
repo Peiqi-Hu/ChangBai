@@ -24,7 +24,7 @@ category: Quantum
 
 ### Summary notes: (based on reference 2 and 3)
 
-![linear_alge_1.jpg](assets/images/linear_alge_1.JPG)
+![linear_alge_1.jpg](https://github.com/Peiqi-Hu/ChangBai/blob/master/blog-Quantum/assets/images/linear_alge_1.JPG)
 
 ### Useful properties related to Hermitian and Unitary Matrix: (see reference 1)
 
