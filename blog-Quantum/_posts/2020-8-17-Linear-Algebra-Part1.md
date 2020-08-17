@@ -20,15 +20,15 @@ category: Quantum
 
 ### Some notations:  (see reference 1)
 
-- ![https://github.com/Peiqi-Hu/ChangBai/blob/master/blog-Quantum/assets/images/notations_hermitian.JPG]()
+- ![notations_hearmitian.jpg](https://github.com/Peiqi-Hu/ChangBai/blob/master/blog-Quantum/assets/images/notations_hermitian.JPG)
 
 ### Summary notes: (based on reference 2 and 3)
 
-![https://github.com/Peiqi-Hu/ChangBai/blob/master/blog-Quantum/assets/images/linear_alge_1.JPG]()
+![linear_alge_1.jpg](https://github.com/Peiqi-Hu/ChangBai/blob/master/blog-Quantum/assets/images/linear_alge_1.JPG)
 
 ### Useful properties related to Hermitian and Unitary Matrix: (see reference 1)
 
-- ![https://github.com/Peiqi-Hu/ChangBai/blob/master/blog-Quantum/assets/images/hermitian_unitary_property.JPG]()
+- ![hermitian_unitary_property.jpg](https://github.com/Peiqi-Hu/ChangBai/blob/master/blog-Quantum/assets/images/hermitian_unitary_property.JPG)
 
 
 
