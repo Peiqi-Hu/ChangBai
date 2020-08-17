@@ -24,11 +24,12 @@ category: Quantum
 
 ### Summary notes: (based on reference 2 and 3)
 
-![linear_alge_1.jpg](https://github.com/Peiqi-Hu/ChangBai/blob/master/blog-Quantum/assets/images/linear_alge_1.JPG)
+![linear_alge_1](https://user-images.githubusercontent.com/26306522/90438588-319e4080-e0a2-11ea-9688-bab3d76139fe.JPG)JPG)
 
 ### Useful properties related to Hermitian and Unitary Matrix: (see reference 1)
 
-- ![hermitian_unitary_property.jpg](https://github.com/Peiqi-Hu/ChangBai/blob/master/blog-Quantum/assets/images/hermitian_unitary_property.JPG)
+- ![hermitian_unitary_property](https://user-images.githubusercontent.com/26306522/90438573-2ba85f80-e0a2-11ea-8c4d-fdfd562b522c.JPG)
+
 
 
 
