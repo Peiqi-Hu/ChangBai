@@ -5,7 +5,7 @@ date:   2020-08-17 15:40:00 -0400
 category: Quantum 
 ---
 
-### 1. "Quantum computing for the determined" by Michael Nielson
+### 1. "Quantum computing for the determined" by Michael Nielsen
 
    - YouTube video series: [https://www.youtube.com/watch?v=X2q1PuI2RFI&list=PL1826E60FD05B44E4](https://www.youtube.com/watch?v=X2q1PuI2RFI&list=PL1826E60FD05B44E4)
    - Really basic and intro level in Quantum, however some linear algebra knowledge are preferred to understand some math related theories. 
