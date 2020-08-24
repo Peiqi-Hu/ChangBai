@@ -25,7 +25,7 @@ category: Quantum
   - **e^(iyB) = cos(y)*I + isin(y)*B**
   - Pauli matrices
     - Unitary, Hermitian and involutory 
-    - e^M |v> = e^v |v>, (matrix M, eigenvector |v>, and eigenvalue v)
+    - e^M|v> = e^v|v>, (matrix M, eigenvector |v>, and eigenvalue v)
 
 ### Summary Notes: 
 
