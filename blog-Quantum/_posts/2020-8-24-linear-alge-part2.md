@@ -25,7 +25,7 @@ category: Quantum
   - **e^(iyB) = cos(y)*I + isin(y)*B**
   - Pauli matrices
     - Unitary, Hermitian and involutory 
-    - e^M|v> = e^v|v>, (matrix M, eigenvector |v>, and eigenvalue v)
+    - ![linear_alge_2_3_formula](https://user-images.githubusercontent.com/26306522/91091766-1644af80-e625-11ea-8d38-fcca7aaa1341.jpg) (ref 9)
 
 ### Summary Notes: 
 
@@ -52,3 +52,4 @@ category: Quantum
 6. Pauli matrix: [https://en.wikipedia.org/wiki/Pauli_matrices](https://en.wikipedia.org/wiki/Pauli_matrices)
 7. Matrix exponential: [https://en.wikipedia.org/wiki/Matrix_exponential](https://en.wikipedia.org/wiki/Matrix_exponential)
 8. e to a matrix (for more general explanation): [https://www.youtube.com/watch?v=l61k97RFsfs]( https://www.youtube.com/watch?v=l61k97RFsfs)
+9. Another important property of matrix exponentials: [https://qiskit.org/textbook/ch-appendix/linear_algebra.html](https://qiskit.org/textbook/ch-appendix/linear_algebra.html)
