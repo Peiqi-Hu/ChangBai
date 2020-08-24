@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prerequisites : Linear Algebra - part 2"
-date:   2020-08-14 15:59:00 -0400
+date:   2020-08-24 15:59:00 -0400
 category: Quantum 
 ---
 
@@ -25,7 +25,7 @@ category: Quantum
   - **e^(iyB) = cos(y)*I + isin(y)*B**
   - Pauli matrices
     - Unitary, Hermitian and involutory 
-    - **e^M |v> = e^v |v>,** (matrix M, eigenvector |v>, and eigenvalue v)
+    - e^M |v> = e^v |v>, (matrix M, eigenvector |v>, and eigenvalue v)
 
 ### Summary Notes: 
 
