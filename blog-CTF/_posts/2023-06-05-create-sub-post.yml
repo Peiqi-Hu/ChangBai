@@ -2,6 +2,8 @@
 layout: post
 title: sub post
 category: CTF
-subtag: picoCTF
+subtabs: 
+  - name: Subtab1
+  - url: https://github.com
 ---
 Sub post
