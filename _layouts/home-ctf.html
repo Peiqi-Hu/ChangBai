@@ -14,7 +14,6 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
         {%- if post.category == "CTF" -%}
-          {%- if post.subtag == "picoCTF" -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -26,9 +25,24 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+        {%- if post.subtabs.size > 0 -%}
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                Subtabs <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                {%- for subtab in post.subtabs -%}
+                  {%- if subtab.name == "Subtab1" -%}
+                    <li>
+                      <a href="{{ subtab.url }}">{{ subtab.name }}</a>
+                    </li>
+                  {%- endif -%}
+                {%- endfor -%}
+              </ul>
+            </li>
+        {%- endif -%}
       </li>
         {%- endif -%}
-      {%- endif -%}
       {%- endfor -%}
     </ul>
 
