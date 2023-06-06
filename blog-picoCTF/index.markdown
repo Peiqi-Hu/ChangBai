@@ -4,6 +4,6 @@
 
 layout: picoCTF
 title: "picoCTF" 
-category: CTF
+category: picoCTF
 order: 2
 ---
